@@ -16,7 +16,7 @@ public class Hello {
 		System.out.println(message);
 
 		// set a new name
-		service.setName("Teste de git");
+		service.setName("Teste de git---");
 		message = service.sayHello();
 		System.out.println(message);
 	}
