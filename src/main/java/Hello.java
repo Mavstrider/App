@@ -16,8 +16,9 @@ public class Hello {
 		System.out.println(message);
 
 		// set a new name
-		service.setName("Spring");
+		service.setName("Teste de git");
 		message = service.sayHello();
 		System.out.println(message);
 	}
+	
 }
